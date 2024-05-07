@@ -142,6 +142,9 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
 }
+aside li{
+    text-align: left
+}
 
 aside h3{
     background-color: #2f195f;
